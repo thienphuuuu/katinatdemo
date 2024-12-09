@@ -16,6 +16,7 @@ body{
     background-image: url("images/KAT_HBSR_BANNER-WEB.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+background-position: -50px;
     display: flex;
     justify-content: center;
     align-items: center;
